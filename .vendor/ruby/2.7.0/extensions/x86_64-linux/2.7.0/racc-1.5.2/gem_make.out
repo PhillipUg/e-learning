@@ -1,0 +1,16 @@
+current directory: /home/philip/dev/rails/ruby-gems-bootcamp/.vendor/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+/home/philip/.rbenv/versions/2.7.2/bin/ruby -I /home/philip/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210613-66849-9lcypm.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/philip/dev/rails/ruby-gems-bootcamp/.vendor/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/philip/dev/rails/ruby-gems-bootcamp/.vendor/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/philip/dev/rails/ruby-gems-bootcamp/.vendor/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20210613-66849-1pxc5iy/racc
